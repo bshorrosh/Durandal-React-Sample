@@ -1,4 +1,4 @@
-This sample uses Reactjs with Durandaljs and is based on the following:
+This sample code uses Reactjs with Durandaljs and is based on the following:
 
 - An intro to the React Framework:<br/>
 https://github.com/NETTUTS/react-intro
