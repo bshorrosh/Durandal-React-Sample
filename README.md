@@ -13,5 +13,3 @@ https://github.com/seiffert/require-jsx
 Hope it's useful to someone.
 
 
-Regards, BShorrosh
-
