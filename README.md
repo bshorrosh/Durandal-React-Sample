@@ -1,9 +1,9 @@
 This sample code uses Reactjs with Durandaljs and is based on the following:
 
-- An intro to the React Framework:<br/>
-https://github.com/NETTUTS/react-intro
+- An intro to the react framework:<br/>
+https://github.com/nettuts/react-intro
 
-- Durandal Html starter kit:<br/>
+- Durandal html starter kit:<br/>
 http://durandaljs.com/get-started.html
 
 - A require.js plugin that allows you to use JSX files as require.js dependencies:<br/>
