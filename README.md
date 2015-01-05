@@ -10,6 +10,3 @@ http://durandaljs.com/get-started.html
 https://github.com/seiffert/require-jsx
 
 
-Hope it's useful to someone.
-
-
